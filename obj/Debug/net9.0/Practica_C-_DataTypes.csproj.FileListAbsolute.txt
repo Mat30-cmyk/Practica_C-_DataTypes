@@ -1,0 +1,15 @@
+C:\Users\AlcaldiaMedellin\Desktop\C#\Practica_C-_DataTypes\bin\Debug\net9.0\Practica_C-_DataTypes.exe
+C:\Users\AlcaldiaMedellin\Desktop\C#\Practica_C-_DataTypes\bin\Debug\net9.0\Practica_C-_DataTypes.deps.json
+C:\Users\AlcaldiaMedellin\Desktop\C#\Practica_C-_DataTypes\bin\Debug\net9.0\Practica_C-_DataTypes.runtimeconfig.json
+C:\Users\AlcaldiaMedellin\Desktop\C#\Practica_C-_DataTypes\bin\Debug\net9.0\Practica_C-_DataTypes.dll
+C:\Users\AlcaldiaMedellin\Desktop\C#\Practica_C-_DataTypes\bin\Debug\net9.0\Practica_C-_DataTypes.pdb
+C:\Users\AlcaldiaMedellin\Desktop\C#\Practica_C-_DataTypes\obj\Debug\net9.0\Practica_C-_DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlcaldiaMedellin\Desktop\C#\Practica_C-_DataTypes\obj\Debug\net9.0\Practica_C-_DataTypes.AssemblyInfoInputs.cache
+C:\Users\AlcaldiaMedellin\Desktop\C#\Practica_C-_DataTypes\obj\Debug\net9.0\Practica_C-_DataTypes.AssemblyInfo.cs
+C:\Users\AlcaldiaMedellin\Desktop\C#\Practica_C-_DataTypes\obj\Debug\net9.0\Practica_C-_DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\AlcaldiaMedellin\Desktop\C#\Practica_C-_DataTypes\obj\Debug\net9.0\Practica_C-_DataTypes.sourcelink.json
+C:\Users\AlcaldiaMedellin\Desktop\C#\Practica_C-_DataTypes\obj\Debug\net9.0\Practica_C-_DataTypes.dll
+C:\Users\AlcaldiaMedellin\Desktop\C#\Practica_C-_DataTypes\obj\Debug\net9.0\refint\Practica_C-_DataTypes.dll
+C:\Users\AlcaldiaMedellin\Desktop\C#\Practica_C-_DataTypes\obj\Debug\net9.0\Practica_C-_DataTypes.pdb
+C:\Users\AlcaldiaMedellin\Desktop\C#\Practica_C-_DataTypes\obj\Debug\net9.0\Practica_C-_DataTypes.genruntimeconfig.cache
+C:\Users\AlcaldiaMedellin\Desktop\C#\Practica_C-_DataTypes\obj\Debug\net9.0\ref\Practica_C-_DataTypes.dll
