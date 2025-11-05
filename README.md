@@ -3,7 +3,7 @@ Actividad del segundo encuentro con el instructor de C#, utilización de Data Ty
 
 # 🧩 Extra: Descripción del Proyecto
 
-Este proyecto en C# (.NET 8) es una aplicación de consola que permite practicar el uso de tipos de datos, condicionales y estructuras repetitivas mediante un menú interactivo con cuatro secciones:
+Este proyecto en C# (.NET 9) es una aplicación de consola que permite practicar el uso de tipos de datos, condicionales y estructuras repetitivas mediante un menú interactivo con cuatro secciones:
 
 Enteros: operaciones básicas (suma, resta, multiplicación, división y radicación).
 
